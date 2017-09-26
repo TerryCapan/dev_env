@@ -1,0 +1,9 @@
+[user]
+	email = terry.capan@milestone.com
+	name = Terry Capan
+[rerere]
+	enabled = true
+[log]
+	abbrevCommit = true
+[format]
+	pretty = oneline
